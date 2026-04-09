@@ -2,6 +2,5 @@
   "name": "Speedport PFW Card",
   "description": "Lovelace card for Speedport port forwarding rules",
   "render_readme": true,
-  "content_in_root": true,
-  "filename": "pfw-card.js"
+  "content_in_root": true
 }
